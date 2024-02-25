@@ -1,0 +1,25 @@
+{
+  "name": "aquaterra",
+  "version": "1.0.0",
+  "description": "game in .js",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PUNTOPADRE/AquaTerra.git"
+  },
+  "keywords": [
+    "AquaTerra"
+  ],
+  "author": "PUNTOPADRE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PUNTOPADRE/AquaTerra/issues"
+  },
+  "homepage": "https://github.com/PUNTOPADRE/AquaTerra#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
